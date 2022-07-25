@@ -1,8 +1,7 @@
-# Portfolio
+#Personal Portfolio
 
-The Project was to create a portfolio of my own.
+This github Project is my own personal portfolio of my projects.
 
-## How to Access
-
-click the link below to access the pages
-[Link] : (https://shihabislam789.github.io/)
+## How to access
+ To look and view the pages click the link below. <br>
+ Link: (https://github.com/ShihabIslam789/ShihabIslam789.github.io.git) 
